@@ -1,0 +1,5 @@
+# These are Windows script files and should use crlf
+*.bat text eol=crlf
+
+# All non-Windows script files should use lf
+* text eol=lf
